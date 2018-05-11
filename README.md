@@ -1,0 +1,2 @@
+# BlogComments
+这个仓库是存放个人博客里面的gitment的评论内容的
